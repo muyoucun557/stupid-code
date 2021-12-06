@@ -27,5 +27,10 @@ bool valid(string str) {
         }
     }
     return balance == 0;
+};
+
+
+int main() {
+  
 }
 
